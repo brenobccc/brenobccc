@@ -1,4 +1,6 @@
-##Hey! Welcome, Eu sou o Breno Brito. 
+##Hey! Welcome, Eu sou o Breno Brito. 👨‍💻🚀
+
+Atualmente atuando como Desenvolvedor BackEnd com Java e Spring, e estudando e aplicando FrontEnd em projetos extras.
 
 <div align="center">
   <a href="https://github.com/brenobccc">
